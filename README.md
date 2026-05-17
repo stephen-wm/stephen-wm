@@ -88,7 +88,12 @@ _CEWD, Information Technology_
 <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Python Programming MOOC 2026 - Part 4.3 Lists](https://ytcards.demolab.com/?id=lcX3F9622Sw&title=Python+Programming+MOOC+2026+-+Part+4.3+Lists&lang=en&timestamp=1778698838&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 4.3 Lists")](https://www.youtube.com/watch?v=lcX3F9622Sw)
+[![Python Programming MOOC 2026 - Part 4.2 More Functions](https://ytcards.demolab.com/?id=NmJc2ENDsVQ&title=Python+Programming+MOOC+2026+-+Part+4.2+More+Functions&lang=en&timestamp=1778182969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 4.2 More Functions")](https://www.youtube.com/watch?v=NmJc2ENDsVQ)
+[![Python Programming MOOC 2026 - Part 4.1 Installing Python and VSCode](https://ytcards.demolab.com/?id=Nz_7ZU49Ows&title=Python+Programming+MOOC+2026+-+Part+4.1+Installing+Python+and+VSCode&lang=en&timestamp=1778007620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 4.1 Installing Python and VSCode")](https://www.youtube.com/watch?v=Nz_7ZU49Ows)
+[![Python Programming MOOC 2026 - Part 3.4 Functions](https://ytcards.demolab.com/?id=xuw5gHHTRC4&title=Python+Programming+MOOC+2026+-+Part+3.4+Functions&lang=en&timestamp=1777665643&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 3.4 Functions")](https://www.youtube.com/watch?v=xuw5gHHTRC4)
+[![Python Programming MOOC 2026 - Part 3.3 More Loops](https://ytcards.demolab.com/?id=bS6nlPUhU2I&title=Python+Programming+MOOC+2026+-+Part+3.3+More+Loops&lang=en&timestamp=1776367813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 3.3 More Loops")](https://www.youtube.com/watch?v=bS6nlPUhU2I)
+[![Python Programming MOOC 2026 - 3.2.4 Searching for Substrings Python Programming MOOC 2026](https://ytcards.demolab.com/?id=y5MgbF6TmTM&title=Python+Programming+MOOC+2026+-+3.2.4+Searching+for+Substrings+Python+Programming+MOOC+2026&lang=en&timestamp=1776193261&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - 3.2.4 Searching for Substrings Python Programming MOOC 2026")](https://www.youtube.com/watch?v=y5MgbF6TmTM)
 <!-- END YOUTUBE-CARDS -->
 
 ## 📊 GitHub Stats
