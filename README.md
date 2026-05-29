@@ -88,12 +88,7 @@ _CEWD, Information Technology_
 <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Python Programming MOOC 2026 - Part 4.5 Print statement formatting](https://ytcards.demolab.com/?id=XMPShFqHDKI&title=Python+Programming+MOOC+2026+-+Part+4.5+Print+statement+formatting&lang=en&timestamp=1779814809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 4.5 Print statement formatting")](https://www.youtube.com/watch?v=XMPShFqHDKI)
-[![Python Programming MOOC 2026 - Part 4.4 Definite Iteration](https://ytcards.demolab.com/?id=A783PH27qXM&title=Python+Programming+MOOC+2026+-+Part+4.4+Definite+Iteration&lang=en&timestamp=1779303638&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 4.4 Definite Iteration")](https://www.youtube.com/watch?v=A783PH27qXM)
-[![Python Programming MOOC 2026 - Part 4.3 Lists](https://ytcards.demolab.com/?id=lcX3F9622Sw&title=Python+Programming+MOOC+2026+-+Part+4.3+Lists&lang=en&timestamp=1778698838&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 4.3 Lists")](https://www.youtube.com/watch?v=lcX3F9622Sw)
-[![Python Programming MOOC 2026 - Part 4.2 More Functions](https://ytcards.demolab.com/?id=NmJc2ENDsVQ&title=Python+Programming+MOOC+2026+-+Part+4.2+More+Functions&lang=en&timestamp=1778182969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 4.2 More Functions")](https://www.youtube.com/watch?v=NmJc2ENDsVQ)
-[![Python Programming MOOC 2026 - Part 4.1 Installing Python and VSCode](https://ytcards.demolab.com/?id=Nz_7ZU49Ows&title=Python+Programming+MOOC+2026+-+Part+4.1+Installing+Python+and+VSCode&lang=en&timestamp=1778007620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 4.1 Installing Python and VSCode")](https://www.youtube.com/watch?v=Nz_7ZU49Ows)
-[![Python Programming MOOC 2026 - Part 3.4 Functions](https://ytcards.demolab.com/?id=xuw5gHHTRC4&title=Python+Programming+MOOC+2026+-+Part+3.4+Functions&lang=en&timestamp=1777665643&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 3.4 Functions")](https://www.youtube.com/watch?v=xuw5gHHTRC4)
+
 <!-- END YOUTUBE-CARDS -->
 
 ## 📊 GitHub Stats
