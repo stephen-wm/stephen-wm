@@ -88,7 +88,12 @@ _CEWD, Information Technology_
 <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Python Programming MOOC 2026 - Part 5.2.1 References](https://ytcards.demolab.com/?id=mktpIsWK_Zs&title=Python+Programming+MOOC+2026+-+Part+5.2.1+References&lang=en&timestamp=1783623615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 5.2.1 References")](https://www.youtube.com/watch?v=mktpIsWK_Zs)
+[![Python Programming MOOC 2026 - How Should Future Videos Be Done?](https://ytcards.demolab.com/?id=G6l-UaEklgE&title=Python+Programming+MOOC+2026+-+How+Should+Future+Videos+Be+Done%3F&lang=en&timestamp=1783527106&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - How Should Future Videos Be Done?")](https://www.youtube.com/watch?v=G6l-UaEklgE)
+[![Python Programming MOOC 2026 - Part 5.1.3 Solving Sudoku](https://ytcards.demolab.com/?id=iq6LT6R985c&title=Python+Programming+MOOC+2026+-+Part+5.1.3+Solving+Sudoku&lang=en&timestamp=1783447221&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 5.1.3 Solving Sudoku")](https://www.youtube.com/watch?v=iq6LT6R985c)
+[![Python Programming MOOC 2026 - Part 5.1.2 Matrices](https://ytcards.demolab.com/?id=-pSpoNmbbm8&title=Python+Programming+MOOC+2026+-+Part+5.1.2+Matrices&lang=en&timestamp=1783374481&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 5.1.2 Matrices")](https://www.youtube.com/watch?v=-pSpoNmbbm8)
+[![Python Programming MOOC 2026 - Part 5.1.1 The Longest String](https://ytcards.demolab.com/?id=KGbZvz_RsHs&title=Python+Programming+MOOC+2026+-+Part+5.1.1+The+Longest+String&lang=en&timestamp=1782846000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 5.1.1 The Longest String")](https://www.youtube.com/watch?v=KGbZvz_RsHs)
+[![Python Programming MOOC 2026 - Part 4.6.2 Grade Statistics Exercise](https://ytcards.demolab.com/?id=KBtwem_W0Mg&title=Python+Programming+MOOC+2026+-+Part+4.6.2+Grade+Statistics+Exercise&lang=en&timestamp=1781636438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 4.6.2 Grade Statistics Exercise")](https://www.youtube.com/watch?v=KBtwem_W0Mg)
 <!-- END YOUTUBE-CARDS -->
 
 ## 📊 GitHub Stats
