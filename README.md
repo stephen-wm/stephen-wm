@@ -88,12 +88,7 @@ _CEWD, Information Technology_
 <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Python Programming MOOC 2026 - Part 6.2 Writing to Files](https://ytcards.demolab.com/?id=mSn0zYMtN48&title=Python+Programming+MOOC+2026+-+Part+6.2+Writing+to+Files&lang=en&timestamp=1788556792&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 6.2 Writing to Files")](https://www.youtube.com/watch?v=mSn0zYMtN48)
-[![Python Programming MOOC 2026 - Part 6.1.3 Course Grading Exercises](https://ytcards.demolab.com/?id=BKLhB1HPW-U&title=Python+Programming+MOOC+2026+-+Part+6.1.3+Course+Grading+Exercises&lang=en&timestamp=1788376988&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python Programming MOOC 2026 - Part 6.1.3 Course Grading Exercises")](https://www.youtube.com/watch?v=BKLhB1HPW-U)
-[![Next.js Web Application Development (Night 2)](https://ytcards.demolab.com/?id=E1gBdnBuGRI&title=Next.js+Web+Application+Development+%28Night+2%29&lang=en&timestamp=1785818551&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Next.js Web Application Development (Night 2)")](https://www.youtube.com/watch?v=E1gBdnBuGRI)
-[![Practicing Loops in Python](https://ytcards.demolab.com/?id=9B8G-K0I96k&title=Practicing+Loops+in+Python&lang=en&timestamp=1785788593&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Practicing Loops in Python")](https://www.youtube.com/watch?v=9B8G-K0I96k)
-[![Next.js Web Application Development (Night 1)](https://ytcards.demolab.com/?id=IfKdGwyveIU&title=Next.js+Web+Application+Development+%28Night+1%29&lang=en&timestamp=1785777190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Next.js Web Application Development (Night 1)")](https://www.youtube.com/watch?v=IfKdGwyveIU)
-[![Understanding Loops In Python](https://ytcards.demolab.com/?id=hL9e49wN06o&title=Understanding+Loops+In+Python&lang=en&timestamp=1785729602&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Understanding Loops In Python")](https://www.youtube.com/watch?v=hL9e49wN06o)
+
 <!-- END YOUTUBE-CARDS -->
 
 ## 📊 GitHub Stats
